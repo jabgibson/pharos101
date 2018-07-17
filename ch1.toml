@@ -3,6 +3,6 @@ sub = "the first chapter"
 
 [[section]]
 title = "Some entry topic"
-text = `
+text = """
 Here is where it all starts....
-`
+"""

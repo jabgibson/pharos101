@@ -2,10 +2,8 @@ name = "Pharos 101"
 
 [[chapter]]
 order = 0
-name = "introduction"
 file = "intro.toml"
 
 [[chapter]]
 order = 1
-name = "chapter 1"
 file = "ch1.toml"

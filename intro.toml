@@ -3,13 +3,13 @@ title = "Introduction"
 
 [[section]]
 title = "What is Pharos?"
-text = `
+text = """
 Pharos is this, and that, and this, but it isn't that.
-`
+"""
 
 
 [[section]]
 title = "How to get started"
-text = `
+text = """
 This is how you get started using Pharos...... blah......
-`
+"""
