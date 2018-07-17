@@ -1,0 +1,8 @@
+title = "Chapter 1"
+sub = "the first chapter"
+
+[[section]]
+title = "Some entry topic"
+text = `
+Here is where it all starts....
+`
