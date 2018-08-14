@@ -1,9 +1,31 @@
-name = "Pharos 101"
+title = "Pharos 101 [Dev]"
+author = "Brandon Gibson"
+
+theme = "bookly"
+
+[version]
+major = 0
+minor = 1
+patch = 0
+
+[[contents]]
+key = "toc"
 
 [[chapter]]
-order = 0
-file = "intro.toml"
+num = 0
+file = "intro"
 
 [[chapter]]
-order = 1
-file = "ch1.toml"
+num = 1
+file = "text"
+
+[[chapter]]
+num = 2
+file = "code"
+
+[[chapter]]
+num = 3
+file = "media"
+
+
+
