@@ -1,31 +1,26 @@
 title = "Pharos 101 [Dev]"
 author = "Brandon Gibson"
 
-theme = "bookly"
-
-[version]
-major = 0
-minor = 1
-patch = 0
+template = "bookly"
 
 [[contents]]
 key = "toc"
 
 [[chapter]]
-num = 0
-file = "intro"
+numeral = 0
+source = "intro"
 
 [[chapter]]
-num = 1
-file = "text"
+numeral = 1
+source = "text"
 
 [[chapter]]
-num = 2
-file = "code"
+numeral = 2
+source = "code"
 
 [[chapter]]
-num = 3
-file = "media"
+numeral = 3
+source = "media"
 
 
 
