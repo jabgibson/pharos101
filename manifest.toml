@@ -3,24 +3,23 @@ author = "some author"
 
 template = "bookly"
 
-[[contents]]
-key = "toc"
+[[chapter]]
+title = "Introduction"
+key = "intro"
 
 [[chapter]]
-numeral = 0
-source = "intro"
+order = "Chapter 1"
+title = "Text"
+key = "text"
 
 [[chapter]]
-numeral = 1
-source = "text"
+order = "Chapter 2"
+title = "Code"
+key = "code"
 
 [[chapter]]
-numeral = 2
-source = "code"
-
-[[chapter]]
-numeral = 3
-source = "media"
-
+order = "Chapter 3"
+title = "Media"
+key = "media"
 
 
