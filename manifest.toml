@@ -8,17 +8,17 @@ title = "Introduction"
 key = "intro"
 
 [[chapter]]
-order = "Chapter 1"
+chapter = "Chapter 1"
 title = "Text"
 key = "text"
 
 [[chapter]]
-order = "Chapter 2"
+chapter = "Chapter 2"
 title = "Code"
 key = "code"
 
 [[chapter]]
-order = "Chapter 3"
+chapter = "Chapter 3"
 title = "Media"
 key = "media"
 
